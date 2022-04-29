@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LIMDAEYEON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62)
+
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dy99020)
+
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=DAEYEONLIM&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAEYEONLIM&layout=white)
+
 <!--
 **DAEYEONLIM/DAEYEONLIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
